@@ -7,6 +7,7 @@
  */
 
 $numero = 17;
+$num = 0;
 
 for ($i = 1; $i <= $numero; $i ++){
     if ($numero%$i == 0){
